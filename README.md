@@ -1,4 +1,6 @@
-"# binance_historical_data"
+Python system utilizing CCXT to capture arbatrary date range of historical data from any exchange CCXT supports.
+
+**Usage**
 
 Open the historical data jupyter notebook and simply run the setup block to install dependencies.
 
